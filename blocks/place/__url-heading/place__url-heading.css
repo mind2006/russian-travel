@@ -9,3 +9,9 @@
   margin: 0;
   margin-bottom: 12px;
 }
+
+@media (max-width: 767px) {
+  .place__url-heading {
+    line-height: 100%;
+  }
+}
