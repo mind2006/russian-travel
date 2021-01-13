@@ -6,7 +6,7 @@
 ## Описание:
 
 Однастраничный сайт с адаптивным дизайном
-[Ссылка на проектную работу)](https://mind2006.github.io/russian-travel/index.html)
+[(Ссылка на проектную работу)](https://mind2006.github.io/russian-travel/index.html)
 
 ## Функционал:
 1. Адаптивный дизайн
